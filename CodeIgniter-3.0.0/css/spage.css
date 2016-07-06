@@ -1,0 +1,97 @@
+.one{
+	height:150px;
+	width:150px;padding: 0px;
+}
+
+ul.nav {
+  margin-bottom: 0 !important;
+
+}
+
+
+.sName{
+	position:relative;
+    float:left;
+
+}
+
+.sName .head{
+	text-transform: uppercase;
+	font-size: 50px;
+	font-weight:700;
+}
+
+.sName p{
+	font-size: 18px;
+	font-weight:800;
+	text-transform: uppercase;
+}
+
+.sec{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.tab-content{
+	bordr: 10px solid #fff;
+	pdding:30px;
+	backgrund-color: #222222;
+}
+
+.two{
+	height:100px;
+	width: 100px;
+	float:left;
+}
+
+.sRow .col-md-5{
+	padding:10px;
+}
+
+.sName a{
+	color:#fff;
+	font-size:20px;
+}
+
+.sName img{
+	width:20px;
+	height:20px;
+}
+
+.sCat{
+	font-size:15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.sPageUl a{
+	color:#fff;
+	font-weight: 700;
+	background-color: #222222;
+	border-left : 1px solid #fff;
+}
+
+.sPageUl a:hover{
+	color:#000;
+	font-weight: 700;
+	border-left: 1px solid #fff;
+}
+
+.tabBg h3{
+//	color:#BBB7B6;
+}
+
+.spage_a{
+  color:#000;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.spage_a:hover{
+  color:#fff;
+}
+
+.spage_h3{
+  font-size:17px;
+  font-family: 'Roboto', sans-serif;
+}
